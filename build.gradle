@@ -22,7 +22,7 @@ tasks.withType(JavaCompile) {
 
 application {
     mainModule = 'simpleclient.simplelauncher2'
-    mainClass = 'simpleclient.simplelauncher2.HelloApplication'
+    mainClass = 'simpleclient.simplelauncher2.SimpleLauncherApplication'
 }
 
 javafx {
